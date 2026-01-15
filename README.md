@@ -12,15 +12,17 @@ The objective of this project is to understand the structure, feature types, dat
 ---
 
 ## 📂 Repository Contents
-- `EDA_Titanic_Student_Performance.ipynb`  
-  Jupyter Notebook containing complete exploratory data analysis, observations, and a one-page data analysis report.
-
+- `Understanding AI and ML.ipynb`  
+  Jupyter Notebook containing complete exploratory data analysis, observations.
+  
 - `Titanic-Dataset.csv`  
   Dataset containing passenger information from the Titanic.
 
 - `student_data.csv`  
   Dataset containing student demographic and academic performance data.
-
+  
+- `Data Analysis Report.docx`
+  
 - `README.md`  
   Project documentation.
 
@@ -42,7 +44,6 @@ The following steps were carried out for **both datasets**:
 7. Identified target variables and input features for machine learning
 8. Analyzed dataset size and suitability for ML tasks
 9. Documented data quality issues such as missing values and imbalance
-10. Prepared a **one-page data analysis report**
 
 ---
 
