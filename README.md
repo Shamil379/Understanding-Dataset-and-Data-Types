@@ -89,6 +89,3 @@ The following steps were carried out for **both datasets**:
 - Jupyter Notebook
 
 ---
-
-## ✍️ Author
-This project was prepared for academic purposes using Jupyter Notebook to demonstrate exploratory data analysis and machine learning readiness assessment.
